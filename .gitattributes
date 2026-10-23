@@ -1,0 +1,3 @@
+*.bat -text
+*.command text eol=lf
+*.pdf binary
